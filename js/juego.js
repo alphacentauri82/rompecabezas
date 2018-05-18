@@ -78,7 +78,7 @@ function mostrarCartelGanador() {
        mezclarPiezas(TimesMixPiezas);
        movRealizados = 0;
        var contador = document.getElementById("contador");
-       contador.textContent = "Movimientos realizados: " + movRealizados;
+       contador.textContent = "Movimientos: " + movRealizados;
    } else {
        swal("SOMOS GANADORXS!!");
    }
@@ -119,7 +119,7 @@ function posicionValida(fila, columna){
 function contadorDeMovimientos(){
     var mostrar = document.getElementById("contador");
     movRealizados += 1;
-    mostrar.textContent = "Movimientos realizados: " + movRealizados;
+    mostrar.textContent = "Movimientos: " + movRealizados;
     movRestantes = CantMaxMovimientos - movRealizados
 }
 
