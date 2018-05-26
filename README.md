@@ -1,5 +1,6 @@
 # Rompecabezas
 > TP #3
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 ----------
 ## Extra Features:
 - Mezclador de piezas "Random".
@@ -9,3 +10,5 @@
 - Sweet Alert! :)
 -----------
 ![Demo](https://github.com/alphacentauri82/rompecabezas/blob/master/screenshot.png?raw=true "Demo")
+
+
